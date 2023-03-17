@@ -29,4 +29,19 @@ and I'm proud to be a part of the ever-evolving world of technology.</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronnit-nath&show_icons=true&theme=dark&locale=en" alt="ronnit-nath" /></p>
 
- <p><img align="center" src="https://cdn.discordapp.com/attachments/1083749588793561244/1086432628762222662/global2.png" alt="ronnit-nath" /></p> 
+
+<div class="container" align="center">
+    <table>
+        <td>
+          <img
+            src="https://cdn.discordapp.com/attachments/1083749588793561244/1086432628762222662/global2.png"
+            alt=""
+            srcset="" width="200"
+          />
+        </td>
+        <td>
+            <img src="https://cdn.discordapp.com/attachments/1083749588793561244/1086435746308694086/GSS-2.jpeg" alt="" srcset="" width="300">
+        </td>
+      </tr>
+    </table>
+</div>
