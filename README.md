@@ -28,3 +28,5 @@ and I'm proud to be a part of the ever-evolving world of technology.</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronnit-nath&show_icons=true&theme=dark&locale=en&layout=compact" alt="ronnit-nath" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronnit-nath&show_icons=true&theme=dark&locale=en" alt="ronnit-nath" /></p>
+
+ <p><img align="center" src="https://cdn.discordapp.com/attachments/1083749588793561244/1086432628762222662/global2.png" alt="ronnit-nath" /></p> 
