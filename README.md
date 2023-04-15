@@ -1,8 +1,7 @@
 <h1 align="left">Hey 👋 I'm Ronnit Nath, a tech enthusiast and developer from India</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=27F704&width=435&lines=Programmer;Electronics;Cybersecurity;Robotics" alt="Typing SVG" /></a>
 <h3 align="left">I'm 16 year old  tech enthusiast and developer from India. 
-From an early age, I have been fascinated by the endless possibilities that technology can offer. 
-I love all things tech and, I enjoy making things, mostly involving code, and I particularly enjoy working on projects related to programming and electronics.</h3>
+I love all things tech and, I enjoy making things, mostly involving code, and I particularly enjoy working on projects related to programming and electronics. Also I get a kick out of using technology to connect reality to the interweb</h3>
 <h1>📫 Get in Touch</h1>
 <p>Instagram : <a href="Instagram.com/ronnit_nath"> @ronnit_nath</p>
 <p>Discord : [ nexus.cs #9033 ]</p>
@@ -40,5 +39,4 @@ I love all things tech and, I enjoy making things, mostly involving code, and I 
 </div>
 
 
-<h1 align="center" >MAY THE CODE BE  WITH YOU </h1>
-<span style="font-family: 'Lucida Console';">foo</span>
+<h1 align="center" style="font-family: 'Lucida Console';" >MAY THE CODE BE  WITH YOU </h1>
