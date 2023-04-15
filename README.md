@@ -1,15 +1,8 @@
-<h1 align="left">Hi 👋 I'm Ronnit Nath, a tech enthusiast and developer from India</h1>
+<h1 align="left">Hey 👋 I'm Ronnit Nath, a tech enthusiast and developer from India</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=27F704&width=435&lines=Programmer;Electronics;Cybersecurity;Robotics" alt="Typing SVG" /></a>
 <h3 align="left">I'm 16 year old a self-proclaimed computer nerd. 
 From an early age, I have been fascinated by the endless possibilities that technology can offer. 
-As a developer, I am always exploring new programming languages, tools, and frameworks, and 
-love to experiment with different software development methodologies. 
-I find myself constantly trying to stay up-to-date with the latest trends and advancements in the field, 
-and enjoy attending tech conferences and meetups to learn and connect with other like-minded individuals. 
-Whether it's building a new application, optimizing code, or debugging a stubborn problem, 
-I get a rush of excitement every time I'm faced with a new challenge. 
-Being a computer nerd is not just a job or a hobby, it's a way of life, 
-and I'm proud to be a part of the ever-evolving world of technology.</h3>
+I love all things tech and, I enjoy making things, mostly involving code, and I particularly enjoy working on projects related to programming and electronics.</h3>
 <h1>📫 Get in Touch</h1>
 <p>Instagram : <a href="Instagram.com/ronnit_nath"> @ronnit_nath</p>
 <p>Discord : [ nexus.cs #9033 ]</p>
