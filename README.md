@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋 I'm Ronnit, a developer & cybersecurity dev from India</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=27F704&width=435&lines=Programmer;Astronomy;Cybersecurity;Robotics" alt="Typing SVG" /></a>
+<h1 align="left">Hi 👋 I'm Ronnit Nath, a tech enthusiast and developer from India</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=27F704&width=435&lines=Programmer;Electronics;Cybersecurity;Robotics" alt="Typing SVG" /></a>
 <h3 align="left">I'm 16 year old a self-proclaimed computer nerd. 
 From an early age, I have been fascinated by the endless possibilities that technology can offer. 
 As a developer, I am always exploring new programming languages, tools, and frameworks, and 
