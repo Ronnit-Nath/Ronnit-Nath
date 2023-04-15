@@ -40,4 +40,4 @@ I love all things tech and, I enjoy making things, mostly involving code, and I 
 </div>
 
 
-<h1 align="left" >MAY THE CODE BE <br> WITH YOU </h1>
+<h1 align="center" >MAY THE CODE BE  WITH YOU </h1>
