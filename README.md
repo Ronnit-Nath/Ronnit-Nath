@@ -1,7 +1,8 @@
 <h1 align="left">Hey 👋 I'm Ronnit Nath i develop</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=27F704&width=435&lines=Programmer;Electronics;Cybersecurity;Robotics" alt="Typing SVG" /></a>
-<h3 align="left">I'm 16 year old  tech enthusiast and developer from India. 
-I love all things tech and, I enjoy making things, mostly involving code, and I particularly enjoy working on projects related to programming and electronics. Also I get a kick out of using technology to connect reality to the interweb</h3>
+<h3>I'm a 16-year-old student, tech enthusiast developer and researcher from New Delhi, India who has a deep passion for all things STEM and programming. I thoroughly enjoy the art of creation with a particular fondness for projects involving programming and electronics. I'm not only drawn to the technical aspects but also find immense satisfaction in using technology to bridge the gap between the physical world and the digital realm. This passion for STEM and computers fuels my drive to explore, innovate, and create.</h3>
+<!-- <h3 align="left">I'm 16 year old  tech enthusiast and developer from India. 
+I love all things tech and, I enjoy making things, mostly involving code, and I particularly enjoy working on projects related to programming and electronics. Also I get a kick out of using technology to connect reality to the interweb</h3> -->
 <h1>📫 Get in Touch</h1>
 <p>Instagram : <a href="Instagram.com/ronnit_nath"> @ronnit_nath</p>
 <p>Discord : [ nexus.cs #9033 ]</p>
